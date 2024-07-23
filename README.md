@@ -8,3 +8,7 @@ Você pode encontrar as informações de qualquer endereço digitando seu CEP. E
 ## Funcionalidade
 
 O usuário digita um CEP válido e o programa retorna algumas informações em relação ao endereço como: Logradouro, Cidade e Estado.
+
+![Terminal](assets/Img(1).png)
+
+![Terminal](assets/Img(2).png)
