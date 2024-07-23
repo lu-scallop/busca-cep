@@ -12,3 +12,7 @@ O usuário digita um CEP válido e o programa retorna algumas informações em r
 ![Terminal](assets/img(1).png)
 
 ![Terminal](assets/img(2).png)
+
+## Referências
+
+API utilizada: [ViaCEP](https://viacep.com.br/)
