@@ -1,0 +1,17 @@
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\busca-cep.exe
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\busca-cep.deps.json
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\busca-cep.runtimeconfig.json
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\busca-cep.dll
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\busca-cep.pdb
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.AssemblyInfoInputs.cache
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.AssemblyInfo.cs
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.csproj.CoreCompileInputs.cache
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.dll
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\refint\busca-cep.dll
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.pdb
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.genruntimeconfig.cache
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\ref\busca-cep.dll
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.csproj.AssemblyReference.cache
+C:\ProjetosDev\ProjetosCsharp\busca-cep\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ProjetosDev\ProjetosCsharp\busca-cep\obj\Debug\net6.0\busca-cep.csproj.CopyComplete
